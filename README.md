@@ -7,7 +7,7 @@
 
 **Usage**:
 > ```sh
-> python port.py <port_number>
+> python spd.py <port_number>
 > ```
 **Example**:
 > ```sh
